@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "requirejs": "~2.3.2",
+    "requirejs": "~2.3.3",
     "uglify-js": "~2.7.4"
   },
   "devDependencies": {},
